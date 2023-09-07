@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Kr30x
+- 👋 Hi, I’m @Kr30x, MOSCOW HSE student
 - 👀 I’m interested in neural networks
 - 🌱 I’m currently learning c++/python
-- 💞️ I’m looking to collaborate on a project for sorting photos by faces
 - 📫 How to reach me
 
 Gmail: marmotik.1973@gmail.com
