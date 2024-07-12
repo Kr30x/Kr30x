@@ -5,7 +5,9 @@
 📫 How to reach me
 
 My website: https://gleb-golubev.vercel.app/
+
 Gmail: marmotik.1973@gmail.com
+
 Telegram: @g_golubev
 
 Discord: Kreox#4322
