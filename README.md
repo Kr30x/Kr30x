@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kr30x, MOSCOW HSE student
-- 👀 I’m interested in neural networks
-- 🌱 I’m currently learning c++/python
+- 👀 I’m interested in building SaaS projects and neural networks
+- 🌱 I’m currently learning c++/python/react
 
 📫 How to reach me
 
