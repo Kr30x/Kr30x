@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kr30x, MOSCOW HSE student
+- 💼 Currently working as a backend dev at Yandex, Moscow
 - 👀 I’m interested in building SaaS projects and neural networks
 - 🌱 I’m currently learning c++/python/react
 
