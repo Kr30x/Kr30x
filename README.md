@@ -11,7 +11,7 @@ Gmail: marmotik.1973@gmail.com
 
 Telegram: @g_golubev
 
-Discord: Kreox#4322
+Discord: _kreox
 
 <!---
 Kr30x/Kr30x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
